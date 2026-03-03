@@ -8,7 +8,7 @@ A secure, scalable static portfolio website deployed on AWS infrastructure with 
 
 ## 📐 Architecture
 
-![AWS Architecture Diagram](./AWS-Portfolio-Architecture.png)
+![AWS Architecture Diagram](./screenshots/AWS-Portfolio-Architecture.png)
 
 ---
 
