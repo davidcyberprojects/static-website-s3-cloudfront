@@ -81,11 +81,11 @@ This project demonstrates the deployment of a production-ready static website us
 
 ### Monthly AWS Costs
 - **Route 53 Hosted Zone:** $0.50/month
-- **S3 Storage:** ~$0.01-0.05/month (negligible for static site)
+- **S3 Storage:** ~$0.01-0.05/month
 - **CloudFront:** Free tier (1TB/month for 12 months), then $0.085/GB
 - **ACM SSL Certificate:** **FREE**
 
-**Total Annual Cost: ~$13-18/year** (incredibly cost-effective for a professional portfolio)
+**Total Annual Cost: ~$13-18/year** 
 
 ## 🔒 Security Best Practices Implemented
 
